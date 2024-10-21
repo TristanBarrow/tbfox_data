@@ -1,7 +1,7 @@
 {
     "title": "Cops and Robbers",
     "date": "10-16-2024",
-    "image": "assets/cops-and-robbers.webp",
+    "image": "/assets/cops-and-robbers.webp",
     "description": "TDD - Cops and Robbers",
     "content": "cops-robbers.md",
     "linkedin": "",

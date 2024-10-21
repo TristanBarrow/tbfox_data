@@ -1,7 +1,7 @@
 {
     "title": "Inflation",
     "date": "8-31-2024",
-    "image": "assets/test-image.png",
+    "image": "/assets/test-image.png",
     "description": "Why does everything look so expensive?",
     "content": "assets/inflation.md",
     "linkedin": "",
